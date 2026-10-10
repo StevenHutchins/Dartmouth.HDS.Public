@@ -1,4 +1,4 @@
-\# Lecture Notes: Foundations in Data Science - Fall 2026 - Dartmouth
+# Lecture Notes: Foundations in Data Science - Fall 2026 - Dartmouth
 
 
 
@@ -6,14 +6,14 @@ My notes from lectures and readings for Foundations in Data Science at Dartmouth
 
 
 
-\## How this folder is organized
+## How this folder is organized
 
-* One file per week, named 'Week-01\_topic.md', 'Week-01\_topic.md', and so on
-* Images or screenshots go in an 'images/' folder.
+* One file per week, named `Week-01\_topic.md`, `Week-02\_topic.md`, and so on
+* Images or screenshots go in an `images/` folder.
 
 
 
-\## Weeks
+## Weeks
 
 * Week 1: Introduction to R
 * Week 2: Data Wrangling and Visualization
