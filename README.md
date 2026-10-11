@@ -43,7 +43,7 @@ Inside every course folder:
 
 ## Tools
 
-R, RStudio, Bash, Git and GitHub, and LaTeX (Overleaf)
+R, RStudio, Bash, Git and GitHub, and LaTeX (Overleaf), Cyberduck
 
 ## Note
 
