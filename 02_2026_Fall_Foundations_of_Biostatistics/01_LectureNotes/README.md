@@ -1,8 +1,8 @@
-# Lecture Notes: <course name> - <term> <year> - Dartmouth
+# Lecture Notes: HSE 712: Foundations of Biostatistics - Fall 2026 - Dartmouth
 
 
 
-My notes from lectures and readings for <course name> at Dartmouth Geisel School of Medicine in <term> <year>.
+My notes from lectures and readings for HSE 712: Foundations of Biostatistics at Dartmouth Geisel School of Medicine in Fall 2026.
 
 
 
@@ -15,9 +15,9 @@ My notes from lectures and readings for <course name> at Dartmouth Geisel School
 
 ## Weeks
 
-* Week 1: <week 1 title>
-* Week 2: <week 2 title>
-* Week 3: <week 3 title>
-* Week 4: <week 4 title>
-* Week 5: <week 5 title>
+* Week 1: Foundational Discrete Distributions
+* Week 2: Foundational Continuous Distributions
+* Week 3: Hypothesis Testing and Inference
+* Week 4: One-way ANOVA and the Non-Parametric Alternative
+* Week 5: Contingency Tables, Chi-Square Tests, Fisher's Exact Test, Risk Ratios, Odds Ratios, and an Introduction to Classification Metrics
 

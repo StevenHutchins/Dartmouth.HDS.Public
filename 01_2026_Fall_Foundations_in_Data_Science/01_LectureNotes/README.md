@@ -1,4 +1,4 @@
-# Lecture Notes: Foundations in Data Science - Fall 2026 - Dartmouth
+# Lecture Notes: HSE 711: Foundations in Data Science - Fall 2026 - Dartmouth
 
 
 
