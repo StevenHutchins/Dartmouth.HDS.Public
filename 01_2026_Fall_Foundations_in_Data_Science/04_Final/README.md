@@ -4,7 +4,14 @@ Final project for HSE 711: Foundations in Data Science, Fall 2026, Dartmouth Hea
 
 ## Summary
 What the project is about and the main question, in two or three sentences.
-This project involved analyzing and visualizing genetic data related to breast cancer.
+The data for this analysis were provided by the course instructor as two files: a matrix of RNA-sequencing
+raw gene counts and a sample metadata file. The data originate from the Cancer Genome Atlas Breast
+Invasive Carcinoma Project (TCGA-BRCA) [1, 2]. The count matrix contains RNA-sequencing raw gene
+counts for 60,660 genes across 1,231 samples. Each sample is identified by its TCGA barcode and classified
+by sample type as primary solid tumor, solid tissue normal, or metastatic. Sequencing depth varied widely
+across samples, from about 19 to 114 million total reads (median about 58 million). Counts were not
+normalized for library size, so comparisons between samples are approximate.
+Visualizations include a histogram (log scale), scatter plot (log scale), violin plot (log scale), complex heatmap (log1p), and mean-difference (MA) plot.
 
 ## Data
 - **Source:** Course-provided
@@ -36,4 +43,4 @@ The final report was written in LaTeX using Overleaf.
 2. Run `analysis.Rmd`
 
 ## Reflection
-- I enjoyed learning about genetic data and how to use R to more deeply understand it. If I were to complete this project again, I would opt to select a more unique secondary gene in hopes to find less alignment with the primary gene for more interesting visualizations. 
+- I enjoyed learning about genetic data and how to use R to more deeply understand it. If I were to complete this project again, I would select a more unique secondary gene in hopes to find less alignment with the primary gene for more interesting visualizations. 
