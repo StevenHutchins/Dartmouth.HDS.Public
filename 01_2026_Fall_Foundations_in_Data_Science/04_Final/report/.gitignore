@@ -3,3 +3,5 @@ meta_data.csv
 data/
 .Rhistory
 .Rproj.user/
+.tex
+.log
