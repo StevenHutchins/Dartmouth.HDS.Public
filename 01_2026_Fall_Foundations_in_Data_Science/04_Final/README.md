@@ -36,12 +36,11 @@ The final report was written in LaTeX using Overleaf.
 ## Deliverables
 - `HutchinsSteven_FinalProject.pdf`
 - `HutchinsSteven_FinalProject.Rmd`
-- `output/`: charts and tables
-- `slides.pdf`: presentation (if any)
+- `figures/`: charts and tables
 
 ## How to run it
-1. Open `<project-name>.Rproj` in RStudio
-2. Run `analysis.Rmd`
+1. Place counts.csv and meta_data.csv in the data folder
+2. Open the R Markdown file in RStudio, and click Knit. All figures and the summary table will be regenerated.
 
 ## Reflection
-- I enjoyed learning about genetic data and how to use R to more deeply understand it. If I were to complete this project again, I would select a more unique secondary gene in hopes to find less alignment with the primary gene for more interesting visualizations. 
+- I enjoyed learning about genetic data and how to use R to more deeply understand it. If I were to complete this project again, I would select a more unique secondary gene in hopes to find a weaker relationship to the primary gene for more interesting visualizations. 
