@@ -34,7 +34,8 @@ The final report was written in LaTeX using Overleaf.
 - Known limitations include lack of count normalization for sequencing depth (nearly six-fold variance across samples) and sample group size differences.
 
 ## Deliverables
-- `report.pdf` or `analysis.Rmd`: the full write-up
+- `HutchinsSteven_FinalProject.pdf`
+- `HutchinsSteven_FinalProject.Rmd`
 - `output/`: charts and tables
 - `slides.pdf`: presentation (if any)
 
