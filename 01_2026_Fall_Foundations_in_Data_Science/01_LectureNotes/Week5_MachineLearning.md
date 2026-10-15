@@ -13,6 +13,8 @@ These are my notes from HSE 711: Foundations in Data Science. Week 5 was designe
 | 05 | Partial Least Squares Discriminant Analysis (PLS-DA) | Squash many measurements into a few summary scores by finding what best separates the groups. It uses the labels. | Picks the blood test value, which cleanly splits who came back from who didn't. |
 | 06 | Elastic net | A regression formula that shrinks every factor's weight and drops the useless ones to zero. Each factor must improve predictions enough to "earn" its weight. | risk = 3×age + 1.5×BMI + 0.8×smoking + 0.2×shoe size becomes 1.67×age + 0.67×BMI + 0.2×smoking, and shoe size is dropped. |
 
+## Packages
+
 | #  | Package   | Description | Example |
 |----|-----------|-------------|---------|
 | 01 | RANN | Fast "nearest neighbor" search: finds the most similar rows to a given row.<br>caret uses it behind the scenes to fill in missing values with KNN<br>(preProcess method = "knnImpute"). | A patient is missing BMI. RANN finds the 5 most similar patients,<br>and their BMIs are used to fill in the blank. |
