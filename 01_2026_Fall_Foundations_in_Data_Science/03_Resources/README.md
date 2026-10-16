@@ -22,6 +22,7 @@ References, cheat sheets, and links I found useful for HSE 711: Foundations in D
 * \[The R Graph Gallery](https://r-graph-gallery.com/): This resource contains hundreds of R chart examples sorted by chart type, each with reproducible ggplot2 or base R code, so you can find a visual you like and adapt the code.
 * \[ggplot2 extensions](https://www.ggplot2-exts.org/): This resource lists add-on packages that extend ggplot2 with new chart types, themes, animations, and layout tools, with a short preview of what each one does.
 * \[TCGA Barcode - GDC Docs](https://docs.gdc.cancer.gov/Encyclopedia/pages/TCGA\_Barcode/): This resource details how to read The Cancer Genome Atlas (TCGA) barcodes, breaking down each segment (project, tissue source site, participant, sample type, vial, portion, analyte, plate, and center) so you can identify and match samples across datasets.
+* \[Confusion Matrix in R](https://www.energycode.org/posts/09032022-confusion-matrix/): The confusion matrix is a useful tool for visualizing the performance of a classification algorithm. In this blog post, we provide a function to generate an image of the confusion matrix. Additionally, the R package caret includes the confusionMatrix function, which produces detailed output.
 
 ## Datasets
 
