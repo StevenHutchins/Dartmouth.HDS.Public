@@ -31,8 +31,6 @@ for (pkg in packages) {
 
 # remotes::install_version("AppliedPredictiveModeling", version = "1.2")
 
-# Instructor comments - check mimic data for icu-related analysis (sounds fun)
-
 # Load in sample dataset from caret package
 data(segmentationData)
 raw_data <- segmentationData
